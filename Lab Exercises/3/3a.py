@@ -1,0 +1,7 @@
+print("Shanghai Jiao Tong University")
+print("Hello SJTU! Hello IEEE!")
+print("中华人民共和国")
+print("上海交通大学")
+print("上海市闵行区东川路 800 号")
+print("苟利国家生死以") 
+print("1+2+3=6") 
